@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Localisation</string>
+    <string name="choose_language">Sprache</string>
+    <string name="apply_btn">Anwenden</string>
+    <string name="choose_margin">Absatz</string>
+    <string-array name="margins">
+        <item>klein</item>
+        <item>medium</item>
+        <item>groß</item>
+    </string-array>
+    <string name="txt_welcome">Herzlich willkommen!</string>
+</resources>

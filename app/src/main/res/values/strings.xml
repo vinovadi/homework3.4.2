@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ThemeColour</string>
+    <string name="choose_language">Язык</string>
+    <string name="apply_btn">Применить</string>
+    <string-array name="languages">
+        <item>Русский</item>
+        <item>English</item>
+        <item>Deutsch</item>
+    </string-array>
+    <string name="choose_margin">Отступы</string>
+    <string-array name="margins">
+        <item>мелкие</item>
+        <item>средние</item>
+        <item>большие</item>
+    </string-array>
+    <string name="txt_welcome">Добро пожаловать!</string>
+</resources>
